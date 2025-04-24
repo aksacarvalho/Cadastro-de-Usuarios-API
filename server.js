@@ -30,6 +30,8 @@ app.post('/usuarios', async (req, res) => {
 
 })
 
+Alteração no código
+
 app.listen(3000)
 // req - requisição
 // res - resposta
